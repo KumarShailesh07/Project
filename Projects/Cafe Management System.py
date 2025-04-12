@@ -1,5 +1,6 @@
 # collection of item in restrurent
-menu = {'Burger':60,
+menu = {
+    'Burger':60,
     'Pizza':120,
     'Coffee':80,
     'Tea':20,
